@@ -1,0 +1,2 @@
+calm.spectator[Black lemming, Black lemming, Black lemming, Red sloth, Red sloth]
+muddy__chair[Blue owl, Green dragon, Green dragon]
